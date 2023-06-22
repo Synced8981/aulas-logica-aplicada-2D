@@ -14,6 +14,7 @@ public class Main {
         System.out.println(qualquer.falar("alto"));
 
 
+
         //Criar mais objetos
         Animal cao = new Animal();
         Animal gato = new Animal();
